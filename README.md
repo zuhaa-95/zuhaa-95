@@ -1,16 +1,36 @@
-## Hi there 👋
+Zuhaa here....
+About Me
 
-<!--
-**zuhaa-95/zuhaa-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student at PAK-Austria University
+🧠 Passionate about AI, Automation & Building Smart Solutions
+🌱 Always learning, always building something new!
 
-Here are some ideas to get you started:
+ 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Python ⭐
+  Java
+  C++
+  HTML & CSS
+  Artificial Intelligence
+  Database Management
+
+ 🚀 Currently Learning
+
+ Machine Learning
+ Web Development
+ AI Automation & Workflows
+
+ 🛠️ Projects
+
+ AI Skin Health Analyzer 
+ Healio— Smart health checking system
+ Smart Traffic Light Simulation
+
+ AI Automation (n8n)
+ Construction Site Safety System 
+ Smart Tracking System
+
+ Database Projects
+ Airline Management System (db)
+ Hotel Management System
+ Library Management System
